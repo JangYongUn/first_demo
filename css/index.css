@@ -1,0 +1,23 @@
+*{
+    width: 100%;
+}
+
+
+header {}
+
+.wrapper {z-index: 999; display: block; position: absolute; background-color: #0274be; display: flex; align-items: center;}
+
+.wrapper .logo {}
+
+.wrapper .logo img {max-width: 140px; box-sizing: inherit;}
+
+.menu_wrapper {}
+
+.menu_wrapper .manu_wrap {}
+
+.menu_wrapper .manu_wrap ul.menu {color: #fff; display: flex; align-items: center;}
+
+.menu_wrapper .manu_wrap ul.menu li {color: #fff;}
+
+
+
